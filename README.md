@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/dhaneshwar-marskole-a4569b206/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.facebook.com/profile.php?id=100012627465717">
+    <a href="https://www.facebook.com/">
      <img src="https://img.shields.io/badge/Facebook-darkblue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
     <a href="https://www.instagram.com/deltamike_7/">
