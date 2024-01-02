@@ -55,5 +55,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhaneshwar7&show_icons=true&locale=en" alt="dhaneshwar7" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dhaneshwar7&theme=tokyonight&hide_border=true&border_radius=4.1&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dhaneshwar7&theme=blueberry-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=501)](https://git.io/streak-stats)
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
