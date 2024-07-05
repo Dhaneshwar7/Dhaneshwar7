@@ -26,10 +26,12 @@
 
 
 
-- 🔭 I’m currently working on [Expense Management App](https://expense-app-e3gk.onrender.com/)
-- Github link of Project [Click here to see](https://github.com/Dhaneshwar7/Expense-Tracker-App)
+- 💼 My Portfolio  [](https://www.dhaneshwar.site/)
+- 🤝 Use Portfolio Template by Fork in your System Make changes,Give Star🌟 []([https://www.dhaneshwar.site/](https://github.com/Dhaneshwar7/Dhaneshwar-portfolio-v1))
+- 🔭 I’m currently working on [](https://expense-app-e3gk.onrender.com/)
+- - 🛠️ Pending Project want to contribute [Click here to see](https://github.com/Dhaneshwar7/Expense-Tracker-App)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [not.com](not.com)
 
