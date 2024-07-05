@@ -44,10 +44,10 @@
 # 💻 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/dhaneshwar-marskole-a4569b206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhaneshwar-marskole-a4569b206" height="30" width="40" /></a>
-</p>
-<p align="left">
+  
 <a href="https://www.instagram.com/deltamike_7/" target="blank"><img align="center" src="https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3JtNTMzLXJpcHBlZC1hLTAwMy5wbmc.png" alt="dhaneshwar-marskole-a4569b206" height="30" width="40" /></a>
 </p>
+
 
  
 # 💻 Languages and Tech Stacks that I use:
