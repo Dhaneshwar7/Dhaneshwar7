@@ -26,9 +26,9 @@
 
 
 
-- 💼 My Portfolio  [](https://www.dhaneshwar.site/)
-- 🤝 Use Portfolio Template by Fork in your System Make changes,Give Star🌟 []([https://www.dhaneshwar.site/](https://github.com/Dhaneshwar7/Dhaneshwar-portfolio-v1))
-- 🔭 I’m currently working on [](https://expense-app-e3gk.onrender.com/)
+- 💼 My Portfolio  [Dhaneshwar.site](https://www.dhaneshwar.site/)
+- 🤝 Use Portfolio Template by Fork in your System Make changes,Give Star🌟 [Portfolio Repo]([https://www.dhaneshwar.site/](https://github.com/Dhaneshwar7/Dhaneshwar-portfolio-v1))
+- 🔭 I’m currently working on [Expense App](https://expense-app-e3gk.onrender.com/)
 - - 🛠️ Pending Project want to contribute [Click here to see](https://github.com/Dhaneshwar7/Expense-Tracker-App)
 
 - 🌱 I’m currently learning **TypeScript**
