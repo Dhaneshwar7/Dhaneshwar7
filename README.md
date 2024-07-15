@@ -21,13 +21,13 @@
  <img src='https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e479wv652dtm1a1zfvmi4n2qlkykub5353ykmryfs8y&rid=giphy.gif&ct=g'    width="400"height="300"/>
 </div>
 <h5 align="center">#MyInterests</h5>
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;">
-   <img style="object-fit:cover;" src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3htcmgzMWM5ZWZwbXJ4aW54NjVydTNnYzFqZjFyaXFhdDFwaHlyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iFGhsoee2xTOM/giphy.webp'    width="150" height="100"/>
-  <img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Y0MWdtanBkcDdva29yb2UwbHBzNm8xcWpybWpuYzcwY2FvZTNyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NYN4sbsBjUcn00kTJd/giphy.webp'     width="150" height="100"/>
-  <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHQzaTB0bnQ3MXNmcWNldjBzODAyM2Z4cjdqbWc3eWlyd2M4ajRoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.webp'    width="170"height="100"/>
-  <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2w0djZmM205NzZjMDAwOHc3eGN4NW12ZXoyYW1kbzhuM3U4NjR2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qWZ2wOhAz4b407adEg/giphy.webp'    width="150"height="100"/>
-    <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFpbHg3NWhhODVsYXJnNDBuOGY0aGIzYmd5ZDlwOGNjODJ5OHQzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjULpQo1HJRD6eTm/giphy.webp'    width="150"height="100"/>
-   <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG55N2x6dWtwcXc4azVqbDd0ZWd5ZWZ3amRteml1bG5yZjAxaGd0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CsZf3S8pXv75JkqHbg/giphy.webp'    width="150"height="100"/>
+<div align='center' style="width:100%;height:0;padding-bottom:75%;position:relative;">
+   <img style="object-fit:cover;" src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3htcmgzMWM5ZWZwbXJ4aW54NjVydTNnYzFqZjFyaXFhdDFwaHlyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iFGhsoee2xTOM/giphy.webp'    width="130" height="100"/>
+  <img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Y0MWdtanBkcDdva29yb2UwbHBzNm8xcWpybWpuYzcwY2FvZTNyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NYN4sbsBjUcn00kTJd/giphy.webp'     width="130" height="100"/>
+  <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHQzaTB0bnQ3MXNmcWNldjBzODAyM2Z4cjdqbWc3eWlyd2M4ajRoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.webp'    width="130"height="100"/>
+  <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2w0djZmM205NzZjMDAwOHc3eGN4NW12ZXoyYW1kbzhuM3U4NjR2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qWZ2wOhAz4b407adEg/giphy.webp'    width="130"height="100"/>
+    <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFpbHg3NWhhODVsYXJnNDBuOGY0aGIzYmd5ZDlwOGNjODJ5OHQzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjULpQo1HJRD6eTm/giphy.webp'    width="130"height="100"/>
+   <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG55N2x6dWtwcXc4azVqbDd0ZWd5ZWZ3amRteml1bG5yZjAxaGd0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CsZf3S8pXv75JkqHbg/giphy.webp'    width="130"height="100"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm DHANESHWAR MARSKOLE</h1>
