@@ -5,8 +5,8 @@
     <a href="https://www.linkedin.com/in/dhaneshwar-marskole-a4569b206/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.facebook.com/">
-     <img src="https://img.shields.io/badge/Facebook-darkblue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    <a href="https://x.com/Dhaneshwar_M7">
+     <img src="https://img.shields.io/twitter/follow/Dhaneshwar_M7" alt="Facebook Badge"/>
     </a>
     <a href="https://www.instagram.com/deltamike_7/">
      <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
@@ -37,30 +37,35 @@
 
 - 💼 My Portfolio  [Dhaneshwar.site](https://www.dhaneshwar.site/)
 - 🤝 Use Portfolio Template by Fork in your System Make changes,Give Star🌟 [Portfolio Repo](https://github.com/Dhaneshwar7/Dhaneshwar-portfolio-v1)
-- 🔭 I’m currently working on [Expense App](https://expense-app-e3gk.onrender.com/)
+- 🔭 I’m currently working on [Ecommerce-Product-Management](https://github.com/Dhaneshwar7/E-Commerce-Management)
 - - 🛠️ Pending Project want to contribute [Click here to see](https://github.com/Dhaneshwar7/Expense-Tracker-App)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript** **C++**
 
 - 👨‍💻 All of my projects are available at [My Projects 🔗](https://github.com/Dhaneshwar7?tab=repositories)
 
-- 💬 Ask me about **MERN DEVELOPMNET, WEB ANIMATIONS.**
+- 💬 Ask me about **MERN DEVELOPMNET, WEB ANIMATIONS** , **TRAVELLING , **NCC
 
 - 📫 How to reach me **dhaneshwarmarskoleb@gmail.com**
 
 - ⚡ Fun fact **Nothing fun Everthing fun**
 
-# 💻 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/dhaneshwar-marskole-a4569b206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhaneshwar-marskole-a4569b206" height="30" width="40" /></a>
-  
-<a href="https://www.instagram.com/deltamike_7/" target="blank"><img align="center" src="https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3JtNTMzLXJpcHBlZC1hLTAwMy5wbmc.png" alt="dhaneshwar-marskole-a4569b206" height="30" width="40" /></a>
+# 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/dhaneshwar-marskole-a4569b206" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/deltamike_7/" target="_blank">
+    <img align="center" src="https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3JtNTMzLXJpcHBlZC1hLTAwMy5wbmc.png" alt="Instagram Profile" height="30" width="40" />
+  </a>
 </p>
 
 
  
 # 💻 Languages and Tech Stacks that I use:
-<p align="center">
+<p style="display:"flex";"align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwindcss,mongodb,expressjs,react,nextjs,nodejs,git,figma" />
   </a>
