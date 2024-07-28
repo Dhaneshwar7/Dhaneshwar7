@@ -31,7 +31,9 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm DHANESHWAR MARSKOLE</h1>
-<h3 align="center">Aspiring Full Stack Web Developer</h3>
+<h3 align="center">Software Developer Trainee (MERN) at <a href="http://www.hackerkernel.com/">
+   <i>HackerKernel ,BHOPAL</i>
+    </a> </h3>
 
 
 
